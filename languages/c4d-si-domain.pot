@@ -1,0 +1,180 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: C4D Shoppable Images\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-27 07:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: includes/post-type.php:13
+msgid "Add New"
+msgstr ""
+
+#: includes/post-type.php:14
+msgid "Add New Collect"
+msgstr ""
+
+#: includes/post-type.php:12
+msgctxt "Add New on Toolbar"
+msgid "Collect"
+msgstr ""
+
+#: includes/post-type.php:11
+msgctxt "Admin Menu text"
+msgid "Shoppable Images"
+msgstr ""
+
+#: includes/post-type.php:18
+msgid "All Collects"
+msgstr ""
+
+#. Name of the plugin
+msgid "C4D Shoppable Images"
+msgstr ""
+
+#: includes/load-script.php:25
+msgid "Clear"
+msgstr ""
+
+#. Author of the plugin
+msgid "Coffee4dev.com"
+msgstr ""
+
+#: includes/post-type.php:60
+msgid "Collection"
+msgstr ""
+
+#: includes/post-type.php:16
+msgid "Edit Collect"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://coffee4dev.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://coffee4dev.com/shoppable-images/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Increases traffic through your website by creating shoppable images: images "
+"containing different points which link to various products."
+msgstr ""
+
+#: includes/post-type.php:15
+msgid "New Collect"
+msgstr ""
+
+#: includes/post-type.php:22
+msgid "No Collects found in Trash."
+msgstr ""
+
+#: includes/post-type.php:21
+msgid "No Collects found."
+msgstr ""
+
+#: includes/post-type.php:23
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Collect Cover Image"
+msgstr ""
+
+#: includes/post-type.php:28
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into Collect"
+msgstr ""
+
+#: includes/post-type.php:25
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: includes/post-type.php:24
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr ""
+
+#: includes/post-type.php:29
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this Collect"
+msgstr ""
+
+#: includes/post-type.php:26
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: includes/post-type.php:20
+msgid "Parent Collects:"
+msgstr ""
+
+#: includes/post-type.php:9
+msgctxt "Post type general name"
+msgid "Collects"
+msgstr ""
+
+#: includes/post-type.php:10
+msgctxt "Post type singular name"
+msgid "Collect"
+msgstr ""
+
+#: includes/post-type.php:30
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Collects list"
+msgstr ""
+
+#: includes/post-type.php:32
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Collects list"
+msgstr ""
+
+#: includes/post-type.php:31
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Collects list navigation"
+msgstr ""
+
+#: includes/post-type.php:19
+msgid "Search Collects"
+msgstr ""
+
+#: includes/shortcode.php:17 includes/shortcode.php:29
+msgid "Shortcode"
+msgstr ""
+
+#: includes/post-type.php:27
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Collect archives"
+msgstr ""
+
+#: includes/post-type.php:17
+msgid "View Collect"
+msgstr ""
+
+#: includes/shortcode.php:21
+msgid "Your shortcode of this collection"
+msgstr ""
